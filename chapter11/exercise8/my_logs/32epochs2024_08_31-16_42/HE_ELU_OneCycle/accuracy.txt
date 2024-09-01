@@ -1,0 +1,1 @@
+HE_ELU_OneCycle - Test Accuracy: 49.37%

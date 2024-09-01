@@ -1,1 +1,0 @@
-LECUN_SELU_ALPHA0.5 - Test Accuracy: 11.74%

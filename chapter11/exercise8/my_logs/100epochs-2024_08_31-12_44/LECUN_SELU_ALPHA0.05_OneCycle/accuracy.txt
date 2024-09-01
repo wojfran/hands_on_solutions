@@ -1,0 +1,1 @@
+LECUN_SELU_ALPHA0.05_OneCycle - Test Accuracy: 48.44%MC dropout - Test Accuracy: 41.85%1Cycle MC dropout  - Test Accuracy: 48.99%

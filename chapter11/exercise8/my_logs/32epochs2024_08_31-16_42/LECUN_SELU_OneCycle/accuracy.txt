@@ -1,0 +1,1 @@
+LECUN_SELU_OneCycle - Test Accuracy: 51.78%

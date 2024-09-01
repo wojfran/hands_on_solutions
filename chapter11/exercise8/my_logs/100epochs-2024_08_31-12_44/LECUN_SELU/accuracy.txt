@@ -1,0 +1,1 @@
+LECUN_SELU - Test Accuracy: 47.55%

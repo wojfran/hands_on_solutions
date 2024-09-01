@@ -1,0 +1,1 @@
+HE_ELU_BATCH_OneCycle - Test Accuracy: 53.30%
