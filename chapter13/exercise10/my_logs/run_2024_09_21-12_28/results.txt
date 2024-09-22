@@ -1,0 +1,17 @@
+imdb_global_average_pooling_tfds.keras Accuracy: 0.8198999762535095 Loss: 0.9075161218643188
+imdb_global_average_pooling_manual.keras Accuracy: 0.826960027217865 Loss: 0.9428495168685913
+imdb_early_mean_embedding_tfds.keras Accuracy: 0.826200008392334 Loss: 0.9521739482879639
+imdb_early_mean_embedding_manual.keras Accuracy: 0.8248800039291382 Loss: 0.9450625777244568
+
+---------------------------
+NETWORK PARAMETERS:
+---------------------------
+No. of epochs: 100
+Embedding dim: 64
+Learning rate: 0.0001
+L2 reg: 0.02
+Network width factor: 3
+Batch size: 16
+Early stopping patience: 10
+LR scheduler factor: 0.5
+LR scheduler patience: 5
